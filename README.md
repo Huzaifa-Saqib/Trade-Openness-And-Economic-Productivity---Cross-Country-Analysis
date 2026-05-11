@@ -37,8 +37,8 @@ This project investigates the relationship between **trade openness and economic
 
 ## Key Findings
 - **Electricity consumption** is the strongest predictor of GDP per capita (R² = 0.576), highlighting the critical role of energy infrastructure
-- **Mobile subscriptions** show a moderate positive relationship with GDP (R² = 0.218), reflecting the importance of digital connectivity
-- **Trade openness** shows a positive relationship with GDP (R² = 0.163) — high trade countries average $23,000 GDP vs $10,000 for low trade countries
+- **Mobile subscriptions** show a moderate positive relationship with GDP (R² = 0.22), reflecting the importance of digital connectivity
+- **Trade openness** shows a positive relationship with GDP (R² = 0.1589) — high trade countries average $23,000 GDP vs $10,000 for low trade countries
 - **FDI** shows a limited direct relationship with GDP (R² = 0.001), suggesting effectiveness depends on institutional quality
 - Global income inequality is stark — Norway ($109,269) vs Mozambique ($578), a gap of nearly 200x
 
